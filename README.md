@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahajpal Singh Mahla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahajpal&label=Profile%20views&color=0e75b6&style=flat" alt="sahajpal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahajpal" alt="sahajpal" /></a> </p>
-
 - 🌱 I’m currently learning **React Native, Next.js and TypeScript**
 
 - 💬 Ask me about **My coding songs playlist for which I get praised a lot.**
