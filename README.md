@@ -29,9 +29,4 @@
 
 <h3>Statistical Data :-</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahajpal&show_icons=true&locale=en"
-    alt="sahajpal" /></p>
-
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahajpal&" alt="sahajpal" /></p>
