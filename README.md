@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahajpal Singh Mahla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning: **React Native, Next.js and TypeScript**
+- 🌱 I’m currently learning: **Jetpack Compose(Strengthening concepts)**
 
-- 💬 Ask me about: **My coding songs playlist for which I get praised a lot.**
+- 💬 Ask me about: **My cooking skills and gym splits**
 
 - 📫 How to reach me: **sahajpal80@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1j2l_4RKS0ne1v-CHPM6c08LaMCaBKTvE/view?usp=sharing](https://drive.google.com/file/d/1j2l_4RKS0ne1v-CHPM6c08LaMCaBKTvE/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/19es7-PKRBO3ckMZdqkcE96TRjBdok3au/view?usp=drive_link](https://drive.google.com/file/d/19es7-PKRBO3ckMZdqkcE96TRjBdok3au/view?usp=drive_link)
 
 - ⚡ Fun fact: **Crossfit and Gym enthusiast; Netflix binger; Hardcore PC Gamer**
 
