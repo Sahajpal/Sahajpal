@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **sahajpal80@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/19es7-PKRBO3ckMZdqkcE96TRjBdok3au/view?usp=drive_link](https://drive.google.com/file/d/19es7-PKRBO3ckMZdqkcE96TRjBdok3au/view?usp=drive_link)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/19es7-PKRBO3ckMZdqkcE96TRjBdok3au/view?usp=drive_link)
 
 - ⚡ Fun fact: **Crossfit and Gym enthusiast; Netflix binger; Hardcore PC Gamer**
 
